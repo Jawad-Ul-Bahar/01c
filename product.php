@@ -7,5 +7,6 @@
 </head>
 <body>
    <h1>product page</h1> 
+   <h2>product-detail page</h2>
 </body>
 </html>
